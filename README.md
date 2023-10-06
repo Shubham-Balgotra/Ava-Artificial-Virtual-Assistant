@@ -21,7 +21,7 @@ Follow these steps to set up and run Ava on your local machine:
 
 2. Install the required Python libraries by creating a virtual environment and using pip:
 
-   ##### GO to the directory where you clone this repository in your local machine. Click on the directory path "C:\Users\SPSA\Desktop\ava_ai", remove it and type cmd. Hit enter.
+   <p>GO to the directory where you clone this repository in your local machine. Click on the directory path "C:\Users\SPSA\Desktop\ava_ai", remove it and type cmd. Hit enter.</p>
    
    ```bash
    pip install -r requirements.txt
@@ -34,7 +34,7 @@ Follow these steps to set up and run Ava on your local machine:
    ELEVENLABS_API_KEY=your_elevenlabs_api_key
    VOICE_ID=your_voice_id
    ```
-   ##### Replace your_openai_api_key, your_elevenlabs_api_key, and your_voice_id with your actual API keys and voice ID.
+   <p> Replace your_openai_api_key, your_elevenlabs_api_key, and your_voice_id with your actual API keys and voice ID.</p>
 
 4. Run Ava:
 
