@@ -28,7 +28,7 @@ def recognize_speech():
         recognizer.adjust_for_ambient_noise(source, duration=1)
         
         try:
-            audio = recognizer.listen(source, timeout=5)
+            audio = recognizer.listen(source, timeout=7)
             print("Recognizing your speech...")
             text = recognizer.recognize_google(audio)
             return text
