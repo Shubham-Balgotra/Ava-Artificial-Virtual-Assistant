@@ -1,6 +1,6 @@
 # Ava-Virtual-Assistant
 
-Ava is a Python-based personal voice assistant that uses OpenAI's GPT-3 for natural language understanding and Eleven Labs for text-to-speech capabilities.
+Ava is a Python-based personal voice assistant that uses OpenAI's GPT-3.5 for natural language understanding and Eleven Labs for text-to-speech capabilities.
 
 ## Prerequisites
 
@@ -49,4 +49,4 @@ Ava can assist you with various tasks, answer questions, and perform actions bas
 Contributions are welcome! If you have ideas for improving Ava or want to add new features, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
