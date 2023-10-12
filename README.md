@@ -1,4 +1,4 @@
-# Ava-Virtual-Assistant
+# Ava Artificial-Virtual-Assistant
 
 Ava is a Python-based personal voice assistant that uses OpenAI's GPT-3.5 for natural language understanding and Eleven Labs for text-to-speech capabilities.
 
